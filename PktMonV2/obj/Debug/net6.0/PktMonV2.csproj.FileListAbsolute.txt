@@ -1,0 +1,15 @@
+C:\Users\paxto\Documents\c#\PktMonV2\bin\Debug\net6.0\PktMonV2.exe
+C:\Users\paxto\Documents\c#\PktMonV2\bin\Debug\net6.0\PktMonV2.deps.json
+C:\Users\paxto\Documents\c#\PktMonV2\bin\Debug\net6.0\PktMonV2.runtimeconfig.json
+C:\Users\paxto\Documents\c#\PktMonV2\bin\Debug\net6.0\PktMonV2.dll
+C:\Users\paxto\Documents\c#\PktMonV2\bin\Debug\net6.0\PktMonV2.pdb
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.csproj.AssemblyReference.cache
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.AssemblyInfoInputs.cache
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.AssemblyInfo.cs
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.csproj.CoreCompileInputs.cache
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.dll
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\refint\PktMonV2.dll
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.pdb
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\PktMonV2.genruntimeconfig.cache
+C:\Users\paxto\Documents\c#\PktMonV2\obj\Debug\net6.0\ref\PktMonV2.dll
